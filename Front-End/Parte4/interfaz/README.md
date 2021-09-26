@@ -44,5 +44,5 @@ Video base: https://www.youtube.com/watch?v=JGtktz8KA_Y
     borre lo que hay dentro de App.vue y reemplace
     por el que se encuentra en este git
 
-    Reemplace los demás archivos presentes en la carpeta interfaz 
-    de este git.
+    Reemplace los demás archivos presentes en su proyecto creado por
+    los archivos presentes en la carpeta interfaz de este git.
