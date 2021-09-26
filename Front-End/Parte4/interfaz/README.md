@@ -38,3 +38,11 @@ Video base: https://www.youtube.com/watch?v=JGtktz8KA_Y
     Dentro de el proyecto creado (interfaz) ejecutar
     npm install axios
 	vue add axios
+
+## 8. Adicione la App princial App.vue
+    Ubíquese dentro del proyecto creado (interfaz)/src
+    borre lo que hay dentro de App.vue y reemplace
+    por el que se encuentra en este git
+
+    Reemplace los demás archivos presentes en la carpeta interfaz 
+    de este git.
